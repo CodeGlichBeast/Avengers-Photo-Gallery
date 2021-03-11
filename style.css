@@ -1,0 +1,12 @@
+.row{
+    width: 200px;
+    height: 200px;
+}
+#wt{
+    text-align: center;
+  background:linear-gradient(yellow 0%, orange 100%);
+}
+#myCarousel .img-responsive{
+    width:400;
+    height: 400;
+}
